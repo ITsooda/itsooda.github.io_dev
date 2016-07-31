@@ -1,14 +1,8 @@
-# Creative Theme for Jekyll
+# 두남자의 IT에 대한 솔직한 이야기
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+IT를 좋아한다는(자칭) 두 남자의 솔직담백한 이야기. 그리고 그들의 순수한 프로젝트 여정기.
+아무도 관심을 주지 않아도 (물론 관심받고 싶은건 어쩔수 없,,,) 그저 해보고 싶어서 시작하는 프로젝트 ITsooda.
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+곧 시작합니다.
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
-
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+***[ITsooda Blog](https://itsooda.com) 8월 2일 오픈예정 ***
