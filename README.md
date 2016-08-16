@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![GitHub release](https://img.shields.io/github/release/mmistakes/minimal-mistakes.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
@@ -120,3 +121,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+# 두남자의 IT에 대한 솔직한 이야기
+
+IT를 좋아한다는(자칭) 두 남자의 솔직담백한 이야기. 그리고 그들의 순수한 프로젝트 여정기.
+아무도 관심을 주지 않아도 (물론 관심받고 싶은건 어쩔수 없,,,) 그저 해보고 싶어서 시작하는 프로젝트 ITsooda.
+
+곧 시작합니다.
+
+***[ITsooda Blog](https://itsooda.com) 8월 2일 오픈예정 ***
+>>>>>>> 740bdf4cc73e107f3360bf17c7dbe37a7a872181

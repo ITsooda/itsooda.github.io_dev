@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -235,3 +236,17 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+=======
+# Site settings
+title: Team ITsooda
+email: hello@itsooda.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+>>>>>>> 740bdf4cc73e107f3360bf17c7dbe37a7a872181
